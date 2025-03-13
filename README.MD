@@ -28,7 +28,7 @@ class Program {
 }";
         Console.WriteLine(jsCode);
     }
-}}
+}
 ```
 
 ## C# code output : 
@@ -42,5 +42,5 @@ function DoubleQuine() {
         }
     }`;
     console.log(csCode);
-}}
+}
 ```
